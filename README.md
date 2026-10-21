@@ -104,7 +104,8 @@ La version stable est publiée dans les **Releases** du dépôt.
 
 | Fichier | Détails |
 |---|---|
-| `Chapitres-v1.0.apk` | APK signé, prêt à installer |
+| [`Chapitres-v1.0.apk`](../../releases/download/v1.0/Chapitres-v1.0.apk) | APK signé (v1+v2+v3), prêt à installer |
+| [`Chapitres.apk`](Chapitres.apk) | Même APK, versionné dans le dépôt |
 
 ### Installation
 

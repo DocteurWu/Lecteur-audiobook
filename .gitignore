@@ -9,6 +9,9 @@ build-*/
 *.jar
 !gradle/wrapper/gradle-wrapper.jar
 
+# L'APK de la release est versionne a la racine pour un telechargement direct
+!/Chapitres.apk
+
 # Android / IDE
 local.properties
 .gradle/
