@@ -28,9 +28,9 @@ L'application analyse vos dossiers, reconstitue l'ordre des chapitres, nettoie l
 noms de fichiers pour en faire des titres lisibles, et vous laisse écouter
 n'importe où — en voiture, en marchant, les yeux fermés.
 
-> 🎧 *Le bon ouvrage, le bon chapitre, la bonne position — même les yeux fermés.*
+> 🎧 *Le bon livre, le bon chapitre, le bon endroit — même les yeux fermés.*
 >
-> Le bon livre, le bon chapitre, le bon endroit : tout est là, il n'y a plus qu'à écouter.
+> Tout est là, il n'y a plus qu'à écouter.
 
 ### ✨ Ce que ça change
 
@@ -64,7 +64,7 @@ n'importe où — en voiture, en marchant, les yeux fermés.
 ```
 28 - 10 - AGE D'OR.mp3                      →  Age d'Or
 01 - Chapitre 1 - Le nouvel ordre.mp3       →  Chapitre 1 : Le Nouvel Ordre
-L_ANTHROPOCENE - 12 - ELEMENTS.mp3           →  L'Anthropocène : Éléments
+L_ANTHROPOCENE - 12 - ELEMENTS.mp3          →  L'Anthropocène : Éléments
 S_IL VOUS PLAIT_Y_A_T_IL.mp3                 →  S'il vous plaît, y a-t-il
 ```
 
