@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chapitres</string>
+    <string name="search_hint">Rechercher un podcast ou un chapitre…</string>
+    <string name="add_folder">Ajouter un dossier</string>
+    <string name="rescan">Rescanner</string>
+    <string name="no_podcast">Aucun podcast trouvé</string>
+    <string name="no_podcast_hint">Ajoutez un dossier contenant des fichiers audio, ou rescanez.</string>
+    <string name="scanning">Analyse des fichiers…</string>
+    <string name="resume">Reprendre la lecture</string>
+    <string name="chapters">chapitres</string>
+    <string name="play">Lecture</string>
+    <string name="pause">Pause</string>
+    <string name="speed">Vitesse</string>
+    <string name="sleep_timer">Minuterie</string>
+    <string name="next_chapter">Chapitre suivant</string>
+    <string name="prev_chapter">Chapitre précédent</string>
+    <string name="back_15">−15 s</string>
+    <string name="fwd_15">+15 s</string>
+    <string name="mark_done">Marquer comme écouté</string>
+    <string name="mark_not_done">Annuler le marquage</string>
+    <string name="reset_position">Réinitialiser la position</string>
+    <string name="sleep_off">Désactivée</string>
+    <string name="sleep_15">Dans 15 minutes</string>
+    <string name="sleep_30">Dans 30 minutes</string>
+    <string name="sleep_45">Dans 45 minutes</string>
+    <string name="sleep_60">Dans 1 heure</string>
+    <string name="sleep_chapter">À la fin du chapitre</string>
+</resources>
